@@ -1,2 +1,2 @@
 # TallerConArreglos
-ejercicio de arreglos en programacion
+ejercicios de arreglos en programacion, desarrollados en java
